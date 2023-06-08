@@ -1,9 +1,16 @@
 display_name,stub,dropdown_parent
 Home,/,
-Browse,/browse.html,
-Subjects,/subjects.html,
-Locations,/locations.html,
 Map,/map.html,
-Timeline,/timeline.html,
+Browse,/browse.html,
+Clouds,,
+Tlingit placenames,/subjects.html,Clouds
+English map names,/locations.html,Clouds
+Latitudes,/lats.html,Clouds
+Terrain,,
+Mountains,/mountains.html,Terrain
+Water,/water.html,Terrain
+Islands,/islands.html,Terrain
+Settlements,/settlements.html,Terrain
+Territory,/territory.html,Terrain
 Data,/data.html,
 About,/about.html,
