@@ -1,13 +1,6 @@
 display_name,stub,dropdown_parent
 Home,/,
 Map,/map.html,
-Browse All,/browse.html,
-Terrain,,
-Mountains,/mountains.html,Terrain
-Water,/water.html,Terrain
-Islands,/islands.html,Terrain
-Settlements,/settlements.html,Terrain
-Territory,/territory.html,Terrain
-Pronunciation,/pronunciation.html,
+Browse,/browse.html,
 Data,/data.html,
 About,/about.html,
