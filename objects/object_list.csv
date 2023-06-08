@@ -3,8 +3,10 @@ object_location,image_small,image_thumb
 /objects/210b.jpg,/objects/small/210b_sm.jpg,/objects/thumbs/210b_th.jpg
 /objects/Tlingit_PlaceNamesMap.pdf,/objects/small/tlingit_placenamesmap_sm.jpg,/objects/thumbs/tlingit_placenamesmap_th.jpg
 /objects/aatlein.jpg,/objects/small/aatlein_sm.jpg,/objects/thumbs/aatlein_th.jpg
+/objects/aatlein.mp3,,
 /objects/aatleinshaa.jpg,/objects/small/aatleinshaa_sm.jpg,/objects/thumbs/aatleinshaa_th.jpg
 /objects/axeegideiyishaa.jpg,/objects/small/axeegideiyishaa_sm.jpg,/objects/thumbs/axeegideiyishaa_th.jpg
+/objects/axeegideiyishaa.mp3,,
 /objects/daatgaadlaakxaati.png,/objects/small/daatgaadlaakxaati_sm.jpg,/objects/thumbs/daatgaadlaakxaati_th.jpg
 /objects/demo_001.jpg,/objects/small/demo_001_sm.jpg,/objects/thumbs/demo_001_th.jpg
 /objects/demo_002.pdf,/objects/small/demo_002_sm.jpg,/objects/thumbs/demo_002_th.jpg
@@ -19,4 +21,6 @@ object_location,image_small,image_thumb
 /objects/liyaatixaajigei.png,/objects/small/liyaatixaajigei_sm.jpg,/objects/thumbs/liyaatixaajigei_th.jpg
 /objects/utajeexaati.jpg,/objects/small/utajeexaati_sm.jpg,/objects/thumbs/utajeexaati_th.jpg
 /objects/weinaa.png,/objects/small/weinaa_sm.jpg,/objects/thumbs/weinaa_th.jpg
+/objects/weinaaxaati.mp3,,
 /objects/weinaaxaati.png,/objects/small/weinaaxaati_sm.jpg,/objects/thumbs/weinaaxaati_th.jpg
+/objects/weinaaxaati2.jpg,/objects/small/weinaaxaati2_sm.jpg,/objects/thumbs/weinaaxaati2_th.jpg
