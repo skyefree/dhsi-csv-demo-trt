@@ -18,9 +18,9 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Tlingit Placenames - Demo Site (CB CSV)
+title: Tlingit Placenames - Demo Site
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A Digital Collection of Tlingit Placenames Built Using the Magic of Static Web Technologies
+tagline: A Digital Collection of Tlingit Placenames Built Using Collection Builder CSV
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "This is a demo collection of Tlingit placenames, and a sandbox for exploring static options for building a mobile placenames app."
