@@ -1,16 +1,13 @@
 display_name,stub,dropdown_parent
 Home,/,
 Map,/map.html,
-Browse,/browse.html,
-Clouds,,
-Tlingit placenames,/subjects.html,Clouds
-English map names,/locations.html,Clouds
-Latitudes,/lats.html,Clouds
+Browse All,/browse.html,
 Terrain,,
 Mountains,/mountains.html,Terrain
 Water,/water.html,Terrain
 Islands,/islands.html,Terrain
 Settlements,/settlements.html,Terrain
 Territory,/territory.html,Terrain
+Pronunciation,/pronunciation.html,
 Data,/data.html,
 About,/about.html,
